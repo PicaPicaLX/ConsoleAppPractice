@@ -10,6 +10,7 @@ namespace ConsoleAppPractice
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
